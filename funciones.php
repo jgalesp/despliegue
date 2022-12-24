@@ -24,7 +24,7 @@ function cabecera($texto)
 <ul>
    <font size=1>
   <li><a href='index.php'>Página inicial</a></li>
-  <li><a href='meter_faltas.php'>Seleccionar curso</a></li>
+  <li><a href='selec_curso.php'>Seleccionar curso</a></li>
   
 </ul>  
 </div>
