@@ -1,7 +1,7 @@
 <?php
 
 include('/app/funcionesBD.php');
-cabecera('Seleccione curso');
+
 echo "<div id=\"contenido\">\n";
 
 $conexion=new mysqli("containers-us-west-189.railway.app","root","ufMOoOlCZaCJkTDWxWr5","railway");
