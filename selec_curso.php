@@ -1,6 +1,6 @@
 <?php
-include('app/funciones.php');
-include('app/funcionesBD.php');
+include('/app/funciones.php');
+include('/app/funcionesBD.php');
 cabecera('Seleccione curso');
 echo "<div id=\"contenido\">\n";
 
