@@ -1,6 +1,6 @@
 
 <?php 
-include('funciones.php');
+include('/funciones.php');
 cabecera('Resultado de la inserción');
 echo "<div id=\"contenido\">\n";
 /* Así tenemos en la variable $lafecha la fecha introducida en meter_faltas.php
