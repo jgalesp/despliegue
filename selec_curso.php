@@ -1,6 +1,6 @@
 <?php
 
-include('/app/funcionesBD.php');
+include_once "/app/funcionesBD.php";
 
 echo "<div id=\"contenido\">\n";
 
