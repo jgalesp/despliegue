@@ -23,8 +23,8 @@ function cabecera($texto)
 <div id=\"menu\">
 <ul>
    <font size=1>
-  <li><a href="index.php">Página inicial</a></li>
-  <li><a href="selec_curso.php">Seleccionar curso</a></li>
+  <li><a href='index.php'>Página inicial</a></li>
+  <li><a href='selec_curso.php'>Seleccionar curso</a></li>
   
 </ul>  
 </div>
